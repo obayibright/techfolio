@@ -4,7 +4,6 @@ import React, { useState, useEffect } from 'react'
 import dynamic from 'next/dynamic'
 import { Skeleton } from "@/components/ui/skeleton"
 
-// Dynamically import IconCloud to prevent SSR
 const IconCloud = dynamic(() => import("@/components/ui/icon-cloud"), { ssr: false })
 
 const slugs = [
