@@ -24,6 +24,6 @@ export function HeroParticle() {
             />
         </div>
     );
-};
+}
 
 export default HeroParticle;
