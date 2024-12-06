@@ -6,14 +6,13 @@ import IconCloudDemo from '@/components/iconcloud'
 import AnimatedShinyTextDemo from '@/components/shinytext'
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from '@/components/ui/accordion'
 import { BorderBeam } from '@/components/ui/border-beam'
-import { Button, buttonVariants } from '@/components/ui/button'
+import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
 import { Textarea } from '@/components/ui/textarea'
 import { motion } from 'framer-motion'
 import { Brain, Code, Smartphone, } from 'lucide-react'
 import Image from 'next/image'
 import { FaXTwitter } from "react-icons/fa6";
-import { FiHome } from "react-icons/fi";
 import { MdOutlineMail } from "react-icons/md";
 import { AiFillLinkedin } from "react-icons/ai";
 import { VscGithubInverted } from "react-icons/vsc"
