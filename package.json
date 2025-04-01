@@ -20,6 +20,7 @@
     "clsx": "^2.1.1",
     "dotted-map": "^2.2.3",
     "framer-motion": "^11.13.1",
+    "lru-cache": "^11.1.0",
     "lucide-react": "^0.468.0",
     "motion": "^12.6.2",
     "next": "14.2.18",
